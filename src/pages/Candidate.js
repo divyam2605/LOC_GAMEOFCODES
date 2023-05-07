@@ -28,7 +28,7 @@ const Candidate = (props) => {
   return (
     <div>
         <Nav/>
-        <Chat/>
+        {/* <Chat/> */}
         <Grid container lg={12} sx={{backgroundColor:"black"}} >
         {      
             MyData.map((values,index)=>

@@ -63,7 +63,7 @@ export default function FAQ() {
   return (
     <div>
         <Nav/>
-        <Chat/>
+        {/* <Chat/> */}
         <Container>
         <Grid container>
             <Grid
